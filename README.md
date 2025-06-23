@@ -1,14 +1,17 @@
 # 3D-Model-Watering-Can
 A mini watering can custom made for my orchids and their picky needs
+
+## Problem
 - couldn't just use a water bottle or store available watering cans for my orchids due to the following:
     - too much water pouring area for my small orchid pots (approximately 8cm in diameter), water would occasionally miss the pot
 - orchids are very prone to crown rot, a condition where the center of the plant, the crown, becomes infected and rots due to moisture accumulation from overwatering or water pooling in the leaf axils, easily caused by excess and careless watering accumalating at the orchid's base "stem".
 
+## Solution
 - to combat these issues, the watering can must have a spout that is long, thin, and follows natural flow.
     - long and thin - to be able to access the top of the soiling medium without having the rigid leaves and arial roots obstructing the way
     - follow natural flow - so the water pours smoothly and accurately and only goes in the intended direction
- 
-  * the watering can must be visually pleasing for personal preferences
+      
+ - the watering can must be visually pleasing for personal preferences
 
 ## Finished Model
 | View | Image |
