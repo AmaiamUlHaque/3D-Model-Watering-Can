@@ -13,6 +13,13 @@ A mini watering can custom made for my orchids and their picky needs
       
  - the watering can must be visually pleasing for personal preferences
 
+## Resulting Print
+The finished results of printing!
+![IMG_9773](https://github.com/user-attachments/assets/2a835b97-4ed9-4133-9ed8-4f420f2ac066)
+![IMG_9774](https://github.com/user-attachments/assets/3993ab8c-fde5-4e8c-9f0e-332e1b742334)
+![IMG_9770](https://github.com/user-attachments/assets/98343bfc-b3b0-4c48-808e-c3b9e33ac363)
+
+
 ## Finished Model
 | View | Image |
 | ----- | ----- |
@@ -21,6 +28,8 @@ A mini watering can custom made for my orchids and their picky needs
 | Front     | <img width="1650" height="761" alt="image" src="https://github.com/user-attachments/assets/c6a1a09f-6e0f-47d5-bd66-94ccd6645e7a" /> |
 | Right     | <img width="1649" height="765" alt="image" src="https://github.com/user-attachments/assets/9d830506-a07a-4a7c-92bd-b0cea0e42fac" /> |
 | 3D Printed|  |
+
+
 
 ## Split Model for Ideal 3D Printing
 - 3D printing with the model above lead to extra long printing time due to supports for overhanging components
